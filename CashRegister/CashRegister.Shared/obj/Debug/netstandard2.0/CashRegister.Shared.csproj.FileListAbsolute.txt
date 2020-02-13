@@ -1,0 +1,8 @@
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.deps.json
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.dll
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\bin\Debug\netstandard2.0\CashRegister.Shared.pdb
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.csprojAssemblyReference.cache
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.AssemblyInfoInputs.cache
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.AssemblyInfo.cs
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.dll
+D:\Schule\5.Klasse\Stropek\CSharp\New\cash-register-exercise-StefanWansch\CashRegister\CashRegister.Shared\obj\Debug\netstandard2.0\CashRegister.Shared.pdb
